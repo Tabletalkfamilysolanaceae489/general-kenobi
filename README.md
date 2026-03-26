@@ -2,8 +2,6 @@
 
 An agent skill that responds to "Hello there" with "General Kenobi."
 
-That's it. That's the skill.
-
 Compatible with any agent that supports the [Agent Skills](https://agentskills.io) standard: Claude Code, Codex CLI, Gemini CLI, Cursor, and more.
 
 ## Installation
