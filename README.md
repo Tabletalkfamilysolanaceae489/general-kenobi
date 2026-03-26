@@ -28,6 +28,8 @@ cp -r general-kenobi ~/.claude/skills/
 
 Say `Hello there` to your agent. Receive `General Kenobi.`
 
+![General Kenobi](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwamN1bGpwcHRvZW5lMmI4bnBlNDRvYnNpNDYwemR2ZHJiNndiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
+
 ## License
 
 MIT
